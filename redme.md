@@ -1,3 +1,4 @@
+```
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install -y python3-pip
@@ -35,3 +36,4 @@ sudo nano /etc/odoo/odoo.conf
 }
 systemctl enable odoo
 systemctl restart odoo
+```
